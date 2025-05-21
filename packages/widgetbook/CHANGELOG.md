@@ -1,3 +1,7 @@
+## 3.15.0
+
+- **BREAKING**: Set minimum SDK version to 3.8.0 & minimum Flutter version to 3.32.0.
+
 ## 3.14.0
 
 - **FEAT**: Add [`header` parameter](https://docs.widgetbook.io/guides/customization#header-widget) to Widgetbook to allow adding a custom header to the navigation sidebar. ([#1443](https://github.com/widgetbook/widgetbook/pull/1443) - by [@Sourav-Sonkar](https://github.com/Sourav-Sonkar))

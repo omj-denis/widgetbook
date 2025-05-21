@@ -117,7 +117,7 @@ class Themes {
     fontFamily: 'Poppins',
     colorScheme: _darkColorScheme,
     hoverColor: const Color(0xFFE3E2E6).withAlpha(20),
-    tabBarTheme: TabBarTheme(
+    tabBarTheme: TabBarThemeData(
       dividerColor: _darkColorScheme.outline,
     ),
     sliderTheme: SliderThemeData(
@@ -144,7 +144,7 @@ class Themes {
     fontFamily: 'Poppins',
     colorScheme: _lightColorScheme,
     hoverColor: const Color(0xFF1A1C1E).withAlpha(20),
-    tabBarTheme: TabBarTheme(
+    tabBarTheme: TabBarThemeData(
       dividerColor: _darkColorScheme.outline,
     ),
     sliderTheme: SliderThemeData(
